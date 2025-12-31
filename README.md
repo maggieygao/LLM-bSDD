@@ -1,5 +1,5 @@
 1. Clone the Repository
-bashgit clone https://github.com/yourusername/bsdd-vlm-evaluation.git
+bashgit clone https://github.com/maggieygao/LLM-bSDD/.git
 cd bsdd-vlm-evaluation
 2. Python Environment Setup
 Option A: Using Conda (Recommended)
